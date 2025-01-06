@@ -79,6 +79,11 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+
+<ul>
+<li>TN Tech students, faculty, and staff: <a href="https://forms.office.com/r/ihc78rLzhJ">register here via Microsoft Forms</a>.</li>
+<li>Everyone else: email <a href='mailto:{{email}}'>{{email}}</a>
 
 <h2 id="general">General Information</h2>
 
